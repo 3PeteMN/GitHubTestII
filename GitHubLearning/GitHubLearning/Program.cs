@@ -17,6 +17,8 @@ namespace GitHubLearning
             //VS code change
             //VS code change II
             //Code changed in GitHub Fifth
+
+            Class1 newClass = new Class1();
         }
     }
 }
