@@ -10,6 +10,7 @@ namespace GitHubLearning
     {
         static void Main(string[] args)
         {
+            //code was aded in GitHub
         }
     }
 }
