@@ -19,9 +19,7 @@ namespace GitHubLearning
             //Code changed in GitHub Fifth
 
             Class1 newClass = new Class1();
-            var result = newClass.Add(1, 2);
-            result = newClass.Add(4, 5);
-            var result = newClass.Add(10, 20);
+
         }
     }
 }
