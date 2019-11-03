@@ -19,6 +19,8 @@ namespace GitHubLearning
             //Code changed in GitHub Fifth
 
             Class1 newClass = new Class1();
+
+            //Call feature 1
         }
     }
 }
