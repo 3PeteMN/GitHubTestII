@@ -20,6 +20,7 @@ namespace GitHubLearning
 
             Class1 newClass = new Class1();
             var result = newClass.Add(1, 2);
+            result = newClass.Add(4, 5);
         }
     }
 }
